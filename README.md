@@ -4,9 +4,9 @@
 Email Me 👉 ✉️ **anishkumar9905287@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** self
-- 🌱 **I’m currently learning:** Cyber Security
+- 🌱 **I’m currently learning:** AI/ML, Kubernetes
 - 👯 **I’m looking to collaborate on:** SRPS AI HYBRDE SCHOOL
-- 🤔 **I’m looking for help with:** Your project here
+- 🤔 **I’m looking for help with:** ___________
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** anishkumar9905287@gmail.com
 - 😄 **Pronouns:** Anish Sir
