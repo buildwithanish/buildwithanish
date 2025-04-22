@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Anish Raj
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**Full-Stack Apps (React, Node.js, MongoDB) || Cloud/DevOps (AWS, Docker, CI/CD pipelines) || Automation Scripts (Python, Bash)**
 
 Email Me 👉 ✉️ **anishkumar9905287@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
