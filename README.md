@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Anish Raj
-**Full Stack Developer 🧑‍💻 || Hackathon Winner 🏆 || Android Developer || Web Developer || Software Developer || TypeScript || Next.js || DSA || C++ || Java || JavaScript || React || MongoDB || Express || Node.js || Jira**
+**Full Stack Developer 🧑‍💻 || Hackathon Winner 🏆 || Android Developer || Web Developer || Software Developer || TypeScript || Next.js || DSA || C++ || Java || JavaScript || React || MongoDB || Express || Node.js ||**
 
 Email Me 👉 ✉️ **anishkumar9905287@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
